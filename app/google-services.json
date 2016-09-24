@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "941935795045",
+    "project_id": "login-android-ae44c"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941935795045:android:43fb971dcf55e0c6",
+        "android_client_info": {
+          "package_name": "com.ravikant.GoogleLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941935795045-e6k8hlscsando9pf48pl5ags9p0rou4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ravikant.GoogleLogin",
+            "certificate_hash": "CB9BAC01A1D549EA9E4D765F3A40D45E4F3ACDD4"
+          }
+        },
+        {
+          "client_id": "941935795045-7a0hifooc2nk5d540rmd4cr96rh8cuq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyh6wk9nxAkbWt4uh_NE08xoeM0_n8UM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941935795045:android:fc070be67b29c7c5",
+        "android_client_info": {
+          "package_name": "com.example.ravikant.googlegogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941935795045-dfml2e92imrrtf9hn9qo4o4bfn4pqipq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ravikant.googlegogin",
+            "certificate_hash": "CB9BAC01A1D549EA9E4D765F3A40D45E4F3ACDD4"
+          }
+        },
+        {
+          "client_id": "941935795045-7a0hifooc2nk5d540rmd4cr96rh8cuq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyh6wk9nxAkbWt4uh_NE08xoeM0_n8UM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941935795045:android:b653015498e7b9df",
+        "android_client_info": {
+          "package_name": "com.example.ravikant.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941935795045-erfecffq0lrl16d9lhooq2npji4gj632.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ravikant.googlelogin",
+            "certificate_hash": "CB9BAC01A1D549EA9E4D765F3A40D45E4F3ACDD4"
+          }
+        },
+        {
+          "client_id": "941935795045-7a0hifooc2nk5d540rmd4cr96rh8cuq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyh6wk9nxAkbWt4uh_NE08xoeM0_n8UM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
